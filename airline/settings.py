@@ -32,6 +32,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     #'flights',
+    'users.apps.UsersConfig',
     'flights.apps.FlightsConfig',
     'django.contrib.admin',
     'django.contrib.auth',
