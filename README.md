@@ -1,7 +1,7 @@
 #Django- WepApp
 
 
-The airline est a web based app
+The airline is a python/project that has  flights  web based app
 It displays the planned flights for a given airport
 Display the passenger for a specific fligh
 
@@ -16,5 +16,7 @@ TO USE THIS APP
 5- python airle/manage-py runserver
 
 Open  http://localhost:8000 to the corresponding port
+
+http://localhost:8000/flights
 
 
